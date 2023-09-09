@@ -1,0 +1,6 @@
+- ProxyGroup code
+  If groupname is a FQN, check of the group exist is not done.
+  Thinking of a way to solve this.....
+- Authentication problems
+  It looks like sometimes Squid does not receive "OK" eventhough
+  the user has been authenticated. Restart of the browser helps.  

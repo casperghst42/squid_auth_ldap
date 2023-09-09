@@ -1,0 +1,6 @@
+- code clean up
+- check for more than one group
+- try to make sso (not)
+- ssl implementation
+- documentation
+- logrotate (when ever....)
